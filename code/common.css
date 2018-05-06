@@ -1,0 +1,27 @@
+
+.middle1{
+    width: 50%;
+    position: absolute;
+    top: 50%;
+    margin-top: -50px;
+    margin-left: 25%;
+}
+
+.middle2{  //不知道高度
+    position: absolute;
+    top: 50%;
+    margin-top: -50px;
+    transform: translateY(50%);
+}
+
+.middle3{ //父容器 dispaly:table
+    display: table-cell;
+    vertical-align: middle;
+
+}
+.middle4{ //父容器 display:flex;
+    width: 50%;
+    align-items: center;
+
+}
+

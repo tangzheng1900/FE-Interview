@@ -93,3 +93,9 @@ function test(a, b) {
     // 测试Git branch
 
 }
+
+function test2() {
+
+    // continue next step
+
+}

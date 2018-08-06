@@ -83,3 +83,8 @@ function A() {
 }
 
 
+
+function a() {
+    let b = 20
+}
+console.log(b);
